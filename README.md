@@ -22,7 +22,7 @@ This project holds significance not only for academic purposes but also for prac
 
 The data related to users behavior is stored in the file /datasets/credit_scoring_eng.csv
 
-This projects will consist of 3 steps:
+This projects will consist of 4 steps:
 
 1. Data Exploration
 2. Data Cleaning
